@@ -69,9 +69,9 @@ python ab_test_analysis.py
 ## 📂 Repository Structure
 
 ```text
-├── data/                  # Raw and contingency table data
-├── ab_test_analysis.py    # Python script containing Chi-Square and Post-Hoc tests
-├── README.md              # Project documentation
+├── data/                        # Raw and contingency table data
+├── Eniac_ab_test_analysis.py    # Python script containing Chi-Square and Post-Hoc tests
+├── README.md                    # Project documentation
 ```
 
 ---
@@ -151,7 +151,7 @@ To replicate the statistical testing, install the dependencies and run the analy
 
 ```bash
 pip install pandas scipy numpy
-python ab_test_analysis.py
+python Eniac_ab_test_analysis.py
 ```
 
 
